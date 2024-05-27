@@ -1,0 +1,73 @@
+<mjml>
+<mj-head>
+    <mj-preview>Test preview</mj-preview>
+  </mj-head>
+  <mj-body css-class="test">
+    <mj-section background-color="#F0FFFF">
+      <mj-column>
+        <mj-image src="https://images.stopgame.ru/screenshots/21482/warhammer_40_000_space_marine_ii-1.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0FFFF">
+      <mj-column>
+        <mj-text align="left" font-style="italic" font-size="20px" color="#626262">
+          Добрый день ___ !
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0FFFF">
+      <mj-column>
+        <mj-text align="left" font-style="italic" font-size="20px" color="#626262">
+          В продолжении нашего разговора, направляю вам информацию по нашим форматам
+          Нажмите на кнопку, чтобы узнать все подробности
+        </mj-text>
+        <mj-button background-color="#F63A4D" href="#" width="80%">
+          Promotion
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0FFFF">
+      <mj-group>
+        <mj-column width="20%">
+          <mj-image width="100px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="/#" />
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="100px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="/#" />
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="100px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="/#" />
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="100px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="/#" />
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image width="100px" src="https://www.online-image-editor.com//styles/2014/images/example_image.png" href="/#" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#F0F8FF">
+      <mj-column>
+        <mj-text align="left" font-style="italic" font-size="20px" color="#626262">
+          Eventyon Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0F8FF">
+      <mj-column >
+        <mj-text>
+          <a href="tel:+79001111111" style="font-size:16px; line-height:32px; text-decoration:none; color:#000000; ">+7-900-111-11-11</a>  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F0F8FF">
+      <mj-column>
+        <mj-social align="left" font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element href="https://web.telegram.org/k/" src="https://icon-icons.com/icons2/2428/PNG/512/telegram_black_logo_icon_147073.png">
+          </mj-social-element>
+          <mj-social-element href="https://ru.pinterest.com/" src="https://icon-icons.com/icons2/808/PNG/512/pinterest_icon-icons.com_66097.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
